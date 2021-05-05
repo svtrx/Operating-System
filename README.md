@@ -5,12 +5,12 @@
 <b> Ilmu Komputer 2019
 <hr>
   
-<h2>User Tests</h2>
-<a href="https://github.com/svtrx/Operating-System/tree/hw1/usertests">Klik di sini untuk melihat <i>User Tests</i></a>
+<h4>User Tests</h4>
+<a href="https://github.com/svtrx/Operating-System/tree/hw1/usertests"><i>User Tests</i></a>
 
-<h2>Code Modification Report</h2>
-<a href="https://github.com/svtrx/Operating-System/tree/hw1/diff_report.pdf">Klik di sini untuk melihat <i>Code Modification</i></a>
+<h4>Code Modification Report</h4>
+<a href="https://github.com/svtrx/Operating-System/tree/hw1/diff_report.pdf"><i>Code Modification</i></a>
 
-<h2>Source Code</h2>
-<a href="https://github.com/svtrx/Operating-System/tree/hw1/xv6-pdx">Klik di sini untuk melihat <i>Source Code</i></a>
+<h4>Source Code</h4>
+<a href="https://github.com/svtrx/Operating-System/tree/hw1/xv6-pdx"><i>Source Code</i></a>
 
