@@ -4,3 +4,6 @@
   
 <h2>Assignment 1</h2>
 <a href="https://github.com/svtrx/Operating-System/tree/hw1">Klik di sini untuk melihat Tugas 1</a>
+
+<h2>Assignment 2</h2>
+<a href="https://github.com/svtrx/Operating-System/tree/hw-2">Klik di sini untuk melihat Tugas 2</a>
