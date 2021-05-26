@@ -1,6 +1,16 @@
-<h1>Operating System Class</h1>
+<h1>Assignment 2</h1>
 <hr>
-<b>Repositi ini dibuat sebagai salah satu syarat tugas mata kuliah Sistem Operasi semester 114
+<h3>SAVITRI</h3>
+<b>1313619015 <br>
+<b> Ilmu Komputer 2019
+<hr>
   
-<h2>Assignment 1</h2>
-<a href="https://github.com/svtrx/Operating-System/tree/hw1">Klik di sini untuk melihat Tugas 1</a>
+<h4>Running Screenshots</h4>
+<a href="https://github.com/svtrx/Operating-System/tree/hw-2/usertests"><i>Usertests</i></a>
+
+<h4>Code Modification Report</h4>
+<a href="https://github.com/svtrx/Operating-System/tree/hw-2/diff_report.pdf"><i>diff_report.pdf</i></a>
+
+<h4>Source Code</h4>
+<a href="https://github.com/svtrx/Operating-System/tree/hw-2/xv6-pdx"><i>xv6-pdx</i></a>
+
